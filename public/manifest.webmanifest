@@ -1,0 +1,18 @@
+{
+  "name": "Hemra",
+  "short_name": "Hemra",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fbfaf7",
+  "theme_color": "#063F32",
+  "description": "Se hvor nær du er din første bolig.",
+  "icons": [
+    {
+      "src": "/hemra-icon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

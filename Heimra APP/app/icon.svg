@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hemraIconTitle">
+  <title id="hemraIconTitle">Hemra ikon</title>
+  <rect width="64" height="64" rx="19" fill="#063F32"/>
+  <path d="M20 42V24.3C20 22.5 21.4 21.1 23.2 21.1H40.8C42.6 21.1 44 22.5 44 24.3V42" stroke="#F8F5EF" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 42H47.5" stroke="#F8F5EF" stroke-width="4.2" stroke-linecap="round"/>
+  <path d="M32.5 32H47.5M47.5 32L41.8 26.3M47.5 32L41.8 37.7" stroke="#BFE7D3" stroke-width="3.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
